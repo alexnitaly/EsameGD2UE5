@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"D:/Users/Studente/Documents/GitHub/EsameGD2UE5/EsameGD2UE5BEU/Content/Master/Characters/Objects/HealingObjects/BP_Medicine.uasset",
+				"D:/Users/Studente/Documents/GitHub/EsameGD2UE5/EsameGD2UE5BEU/Content/Master/Characters/Enemies/BP_Spine.uasset",
+				"D:/Users/Studente/Documents/GitHub/EsameGD2UE5/EsameGD2UE5BEU/Content/Master/Characters/MainCharacters/ActorComponent/BPC_HealtSystem.uasset",
 				"D:/Users/Studente/Desktop/EsameGD2UE5-main/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/Characters/Objects/HealingObjects/BP_Medicine.uasset",
 				"D:/Users/Studente/Desktop/EsameGD2UE5-main/EsameGD2UE5-main/EsameGD2UE5BEU/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Users/Studente/Desktop/EsameGD2UE5-main/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/Characters/MainCharacters/ActorComponent/BPC_HealtSystem.uasset",
