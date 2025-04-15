@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/Characters/MainCharacters/BP/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/UI/WidgetBlueprints/WB_StaminaWidget.uasset"
+			]
+		}
+	]
+}
