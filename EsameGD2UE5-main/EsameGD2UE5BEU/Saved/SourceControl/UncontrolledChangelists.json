@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/Characters/MainCharacters/BP/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/UI/WidgetBlueprints/WB_StaminaWidget.uasset"
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/UI/WidgetBlueprints/WB_StaminaWidget.uasset",
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/Characters/MainCharacters/ActorComponent/BPC_HealtSystem.uasset",
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/Characters/Objects/HealingObjects/BP_Medicine.uasset",
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/Master/Characters/Enemies/BPC_Enemy.uasset",
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DN/G5RA9B5I6BQHN7U2L52SMB.uasset",
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0A/PQ3BSTP6ACTWMKJH6BN9KR.uasset",
+				"C:/Users/Standard/OneDrive/Desktop/Esame/EsameGD2UE5/EsameGD2UE5-main/EsameGD2UE5BEU/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UJ/LWHT5PO0P6FQAFX9VR083S.uasset"
 			]
 		}
 	]
