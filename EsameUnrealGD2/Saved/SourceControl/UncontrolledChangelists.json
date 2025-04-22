@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/UI/WidgetBlueprints/WB_StaminaWidget.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/Characters/MainCharacters/BP/BP_MainCharacter.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/Characters/MainCharacters/BP/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/UI/WidgetBlueprints/WB_HealtWidged.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/Characters/Enemies/BP_Spine.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3U/K3G3IS8RVZ9XALTQUQJB0F.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/Characters/MainCharacters/BP/BP-MaincharacterMode.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/Characters/Objects/HealingObjects/BP_Medicine.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/VW/XY4JKHM6QR4AW2QI7S06XE.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MU/ZICUQFGZRLBJA2VH6N5VX1.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WN/0BDBC6YKDQXS00JZ2936MY.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PN/G9I0HHUNHHJ3NQGUSC8U4O.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/Characters/Enemies/BPC_Enemy.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/Weapons/BP_Sword.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/H7/FEI6M5DTDMORDED3LSD6J8.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/UI/WidgetBlueprints/WB_GameOverWidget.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/Characters/MainCharacters/BP/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Standard/OneDrive/Belgeler/Unreal Projects/EsameUnrealGD2/Content/Master/Characters/MainCharacters/BP/B.uasset"
+			]
+		}
+	]
+}
